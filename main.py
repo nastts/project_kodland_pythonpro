@@ -4,7 +4,7 @@ from telebot import types
 import telebot
 from sorting import get_class
 
-bot = telebot.TeleBot('7750521180:AAFLFPizlVytPNnFspZ5HQeMj9cppCkFpRQ')
+bot = telebot.TeleBot('your token')
 
 score = 0
 current_index = 0
