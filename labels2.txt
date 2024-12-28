@@ -1,0 +1,2 @@
+0 dirty water
+1 clean water

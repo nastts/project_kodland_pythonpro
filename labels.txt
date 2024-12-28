@@ -1,0 +1,5 @@
+0 paper
+1 battery
+2 organic garbage
+3 plastic
+4 glass
